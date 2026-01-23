@@ -1,8 +1,6 @@
-# Assignment 3 - Distributed File Sharing System
-
 ## Overview:
 
-    This assignment requires you to build a group-based file sharing system. Users can share and download files within their respective groups. The system should incorporate advanced features such as parallel downloading, support for fallback multi-trackers, and a custom piece selection algorithm.
+    This project requires you to build a group-based file sharing system. Users can share and download files within their respective groups. The system should incorporate advanced features such as parallel downloading, support for fallback multi-trackers, and a custom piece selection algorithm.
 
 ## Key Features:
 
